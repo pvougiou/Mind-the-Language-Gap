@@ -1,4 +1,4 @@
-# Mind the (Language) Gap
+# Mind the (Language) Gap: Generation of Multilingual Wikipedia Summaries from Wikidata for ArticlePlaceholders
 This repository contains the code along with the datasets and the results of the work that has been accepted for the Research track of ESWC 2018. The work focuses on how an adaptation of the encoder-decoder framework can be used to generate articles for underserved language Wikipedias using the [ArticlePlaceholders](https://www.mediawiki.org/wiki/Extension:ArticlePlaceholder).
 
 For a detailed description of the work presented in this repository, please refer to the preprint version of the accepted paper at: <https://2018.eswc-conferences.org/paper_131/>.
